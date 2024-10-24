@@ -75,7 +75,8 @@ int main() {
 }
 ```
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/6ca1dafb-2751-4408-b9b7-329f699a5476)
+
+![WhatsApp Image 2024-10-24 at 16 10 34_a22829e3](https://github.com/user-attachments/assets/8db46613-712c-49e8-b968-1916458865bb)
 
 
 # RESULT:
